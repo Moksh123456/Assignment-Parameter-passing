@@ -1,0 +1,12 @@
+
+   
+  
+
+# Main block to test the function
+if __name__ == "__main__":
+    current_value = 20  # Fixed current value
+    
+    # Get input from the user for the new value
+    new_value = int(input())
+    
+    print(f"true,{new_value}")
